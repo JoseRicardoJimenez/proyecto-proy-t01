@@ -1,13 +1,15 @@
 ![BrightCoders Logo](img/logo-bc.png)
 
 # Nombre del proyecto
-Definan un nombre para su proyecto
+Incluyendonos
 
 ## Problematica que atiende
-Describan la problemática que pretenden atender con su proyecto
+Existe la problematica de las personas que padecen de alguna discapacidad que desafortunadamente son excluídos del mundo productivo. 
 
 ## Propuesta de solución
-Describan de manera general las características de tu propuesta así como la forma en que atiende o resuelve la problemática que definieron.
+Existen 2 propuestas.
+1: 
+2:
 
 ## Definición de requerimientos del MVP
 
